@@ -1,1 +1,1 @@
-#Hello Gitflow Friends!
+#Hello Gitflow Pair Buddies!
